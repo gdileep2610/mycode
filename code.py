@@ -1,2 +1,3 @@
-for i in range(10):
-  print("this is my code to do ")
+print("code was delete")
+name=input()
+print("my name:",name)
